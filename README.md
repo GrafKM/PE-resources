@@ -1,5 +1,5 @@
 # PE-resources
-## Image for Problem 841 - Regular Star Polygon
+## Images for Problem 841 - Regular Star Polygon
 
 ![13-5](/Problem_841_Regular_Star_Polygons_13_5.png)
 ![89-34](/Problem_841_Regular_Star_Polygons_89_34.png)
