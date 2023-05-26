@@ -1,13 +1,13 @@
 # PE-resources
+## Images for Problem 761 - Runner and Swimmer
+![Runner and Swimmer](/Problem_761_Runner_and_Swimmer.png)
+
+
 ## Images for Problem 768 - Chandelier
 ![Chandelier_2x5](/Problem_768_Chandelier_2x5.png)
 ![Chandelier_3x3](/Problem_768_Chandelier_3x3.png)
 ![Chandelier_5_1](/Problem_768_Chandelier_5_1.png)
 ![Chandelier_5_4](/Problem_768_Chandelier_5_4.png)
-
-
-## Images for Problem 761 - Runner and Swimmer
-![Runner and Swimmer](/Problem_761_Runner_and_Swimmer.png)
 
 
 ## Images for Problem 841 - Regular Star Polygon
