@@ -1,4 +1,8 @@
 # PE-resources
+## Images for Problem 727 - Triangle of Circular Arcs
+![Triangle of Circular Arcs](/Problem_727_Triangle_of_Circular_Arcs.png)
+
+
 ## Images for Problem 761 - Runner and Swimmer
 ![Runner and Swimmer](/Problem_761_Runner_and_Swimmer.png)
 
