@@ -1,4 +1,8 @@
 # PE-resources
+## Images for Problem 449 - Chocolate covered candy
+![Chocolate covered candy](/Problem_449_Chocolate_covered_candy.png)
+
+
 ## Images for Problem 727 - Triangle of Circular Arcs
 ![Triangle of Circular Arcs](/Problem_727_Triangle_of_Circular_Arcs.png)
 
