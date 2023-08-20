@@ -1,4 +1,9 @@
 # PE-resources
+## Images for Problem 332 - Spherical Triangles
+![Problem_332_Spherical_Triangles](/Problem_332_Spherical_Triangles_r3.png)
+![Problem_332_Spherical_Triangles](/Problem_332_Spherical_Triangles_r13.png)
+
+
 ## Images for Problem 449 - Chocolate covered candy
 ![Chocolate covered candy](/Problem_449_Chocolate_covered_candy.png)
 ![Chocolate covered candy~extended](/Problem_449_Chocolate_covered_candy~extended.png)
