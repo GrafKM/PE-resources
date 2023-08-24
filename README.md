@@ -1,4 +1,9 @@
 # PE-resources
+## Images for Problem 327 - Rooms of Doom
+![Problem_327_Rooms_of_Doom~example](/Problem_327_Rooms_of_Doom~example.png)
+![Problem_327_Rooms_of_Doom~solution](/Problem_327_Rooms_of_Doom~solution.png)
+
+
 ## Images for Problem 332 - Spherical Triangles
 ![Problem_332_Spherical_Triangles](/Problem_332_Spherical_Triangles_r3.png)
 ![Problem_332_Spherical_Triangles](/Problem_332_Spherical_Triangles_r13.png)
