@@ -36,3 +36,8 @@
 
 ![377-144](/Problem_841_Regular_Star_Polygons_accuracy.png)
 ![377-144](/Problem_841_Regular_Star_Polygons_denominator.png)
+
+## Images for Problem 894 - Spiral of Circles
+[[3D](/Problem_894_Spiral_of_Circles~3D.png)
+[[r_gt_1](/Problem_894_Spiral_of_Circles~r_gt_1.png)
+
