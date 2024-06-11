@@ -40,4 +40,5 @@
 ## Images for Problem 894 - Spiral of Circles
 ![3D](/Problem_894_Spiral_of_Circles~3D.png)
 ![r_gt_1](/Problem_894_Spiral_of_Circles~r_gt_1.png)
-
+![r_gt_1](/Problem_894_Spiral_of_Circles~mm_da.png)
+![r_gt_1](/Problem_894_Spiral_of_Circles~mm_dr.png)
