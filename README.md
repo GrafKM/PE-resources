@@ -43,3 +43,7 @@
 ![r_gt_1](/Problem_894_Spiral_of_Circles~r_gt_1.png)
 ![r_gt_1](/Problem_894_Spiral_of_Circles~mm_da.png)
 ![r_gt_1](/Problem_894_Spiral_of_Circles~mm_dr.png)
+
+## Images for Problem 914 - Triangles inside Circles
+![3D](/Problem_914_Triangles_inside_Circles.png)
+
