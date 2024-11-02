@@ -46,4 +46,7 @@
 
 ## Images for Problem 914 - Triangles inside Circles
 ![3D](/Problem_914_Triangles_inside_Circles.png)
+![3D](/Problem_914_Triangles_inside_Circles1.png)
+![3D](/Problem_914_Triangles_inside_Circles2.png)
+
 
