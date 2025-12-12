@@ -14,6 +14,11 @@
 ![Chocolate covered candy~extended](/Problem_449_Chocolate_covered_candy~extended.png)
 
 
+## Images for Problem Problem 476 - Circle Packing II
+![Circle_Packing_II](/Problem_476_Circle_Packing_II.png)
+![Circle_Packing_II_b](/Problem_476_Circle_Packing_II_b.png)
+
+
 ## Images for Problem 727 - Triangle of Circular Arcs
 ![Triangle of Circular Arcs](/Problem_727_Triangle_of_Circular_Arcs.png)
 
