@@ -17,6 +17,7 @@
 ## Images for Problem Problem 476 - Circle Packing II
 ![Circle_Packing_II](/Problem_476_Circle_Packing_II.png)
 ![Circle_Packing_II_b](/Problem_476_Circle_Packing_II_b.png)
+![Circle_Packing_II_b](/Problem_476_Circle_Packing_II_b2.png)
 ![Circle_Packing_II](/Problem_476_Circle_Packing_II_c1.png)
 ![Circle_Packing_II_b](/Problem_476_Circle_Packing_II_c2.png)
 
