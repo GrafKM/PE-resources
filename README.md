@@ -22,6 +22,10 @@
 ![Circle_Packing_II_b](/Problem_476_Circle_Packing_II_c2.png)
 
 
+## Images for Problem 613 - Pythagorean Ant
+![Triangle of Circular Arcs](/Problem_613_Pythagorean_Ant.png)
+
+
 ## Images for Problem 727 - Triangle of Circular Arcs
 ![Triangle of Circular Arcs](/Problem_727_Triangle_of_Circular_Arcs.png)
 
