@@ -22,6 +22,10 @@
 ![Circle_Packing_II_b](/Problem_476_Circle_Packing_II_c2.png)
 
 
+## Images for Problem 525 - Rolling Ellipse
+![Triangle of Circular Arcs](/Problem_525_Rolling_Ellipse.png)
+
+
 ## Images for Problem 613 - Pythagorean Ant
 ![Triangle of Circular Arcs](/Problem_613_Pythagorean_Ant.png)
 
