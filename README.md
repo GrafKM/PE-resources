@@ -30,6 +30,13 @@
 ![Triangle of Circular Arcs](/Problem_613_Pythagorean_Ant.png)
 
 
+## Images for Problem 677 - Moving Pentagon
+![Triangle of Circular Arcs](/Problem_677_Moving_Pentagon0.png)
+![Triangle of Circular Arcs](/Problem_677_Moving_Pentagon1.png)
+![Triangle of Circular Arcs](/Problem_677_Moving_Pentagon2.png)
+![Triangle of Circular Arcs](/Problem_677_Moving_Pentagon3.png)
+
+
 ## Images for Problem 727 - Triangle of Circular Arcs
 ![Triangle of Circular Arcs](/Problem_727_Triangle_of_Circular_Arcs.png)
 
